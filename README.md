@@ -17,5 +17,6 @@ Sou uma desenvolvedora apaixonada por front-end e ux/ui. Aqui estão algumas das
 Estou buscando me aprimorar em desenvolvimento multiplataforma, ux/ui e front-end!
 
 ---
-[imagem](https://i.pinimg.com/564x/5a/98/3b/5a983bd0d69c9c3bfcaeac8efe28fe2c.jpg)
+![Texto alternativo](https://i.pinimg.com/564x/5a/98/3b/5a983bd0d69c9c3bfcaeac8efe28fe2c.jpg)
+
 **Obrigado por visitar meu perfil!** ☕
