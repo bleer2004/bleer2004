@@ -16,6 +16,8 @@ Sou uma desenvolvedora apaixonada por front-end e ux/ui. Aqui estão algumas das
 
 Estou buscando me aprimorar em desenvolvimento multiplataforma, ux/ui e front-end!
 
+## Linguagens
+(https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>&style=<STYLE>&logo=<LOGO>)
 ---
 
 
