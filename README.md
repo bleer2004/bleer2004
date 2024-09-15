@@ -13,10 +13,24 @@ Sou uma **desenvolvedora apaixonada por front-end e UX/UI**. Estou sempre buscan
   - ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
   - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)
 
+- 🎨 **UX/UI Ferramentas & Conceitos**:
+  - ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=ffffff)
+  - ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat-square&logo=adobexd&logoColor=ffffff)
+  - ![InVision](https://img.shields.io/badge/-InVision-FF3366?style=flat-square&logo=invision&logoColor=ffffff)
+  - ![Wireframing](https://img.shields.io/badge/-Wireframing-000000?style=flat-square)
+  - ![Prototyping](https://img.shields.io/badge/-Prototyping-6DB33F?style=flat-square)
+
 - 🌱 **Atualmente aprendendo**: Desenvolvimento Multiplataforma e Engenharia de Software.
 
+---
+
+### 🎯 Metodologias UX/UI:
+- **Design Thinking**: Abordagem colaborativa para criar soluções centradas no usuário.
+- **User Research**: Entendimento profundo das necessidades dos usuários através de entrevistas e testes de usabilidade.
+- **Acessibilidade**: Garantindo que todos possam utilizar interfaces de forma eficiente, sem barreiras.
+
 <div style="text-align:center;">
-  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="400"/>
 </div>
 
 ---
@@ -35,8 +49,5 @@ Sou uma **desenvolvedora apaixonada por front-end e UX/UI**. Estou sempre buscan
 
 ---
 
-## Linguagens
 
-![Languages](https://img.shields.io/github/languages/top/bleer2004/repo)
-
-**Obrigado por visitar meu perfil!** ☕ 
+**Obrigado por visitar meu perfil!** ☕
