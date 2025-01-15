@@ -6,11 +6,7 @@
   - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000000) ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=000000) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=ffffff)
 
 - 🎨 **UX/UI Ferramentas & Conceitos**:
-  - ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=ffffff)
-  - ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat-square&logo=adobexd&logoColor=ffffff)
-  - ![InVision](https://img.shields.io/badge/-InVision-FF3366?style=flat-square&logo=invision&logoColor=ffffff)
-  - ![Wireframing](https://img.shields.io/badge/-Wireframing-000000?style=flat-square)
-  - ![Prototyping](https://img.shields.io/badge/-Prototyping-6DB33F?style=flat-square)
+  - ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=ffffff) ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat-square&logo=adobexd&logoColor=ffffff) ![InVision](https://img.shields.io/badge/-InVision-FF3366?style=flat-square&logo=invision&logoColor=ffffff) ![Wireframing](https://img.shields.io/badge/-Wireframing-000000?style=flat-square) ![Prototyping](https://img.shields.io/badge/-Prototyping-6DB33F?style=flat-square)
 
 - 💌 **Atualmente Trabalhando em**: Quality Assurance e Ux/Ui designer (analista).
 
@@ -22,7 +18,7 @@
 - **Acessibilidade**: Garantindo que todos possam utilizar interfaces de forma eficiente, sem barreiras.
 
 <div style="text-align:center;">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fpink-hello-kitty&psig=AOvVaw2EahN6aO2RRbHusk3PZ5yG&ust=1737049042808000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMjrhYui-IoDFQAAAAAdAAAAABAE" width="400"/>
+  <img src="https://media.giphy.com/media/Bng6O8FwfWbEHIdGsE/giphy.gif" width="400"/>
 </div>
 
 ---
