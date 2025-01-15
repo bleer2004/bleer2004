@@ -25,9 +25,7 @@
 
 ## 📬 Contato:
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anacarolinajoaquim/)
-- [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=ffffff)](mailto:anajoaquimjanuario7@gmail.com)
-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=neocities&logoColor=white)](https://hallowenguinho.neocities.org/)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anacarolinajoaquim/)[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=ffffff)](mailto:anajoaquimjanuario7@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=neocities&logoColor=white)](https://hallowenguinho.neocities.org/)
 
 ---
 
