@@ -1,4 +1,4 @@
-## Olá, sou Ana Carolina! <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHkzMDF0OW9ld3B4aWxtODBwOGloeXluc2g4bWlkanBvOGZhc3c4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eVy5UemPAA4tC2Fuul/giphy.gif" width="100"/>
+## Olá, sou Ana Carolina! <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHkzMDF0OW9ld3B4aWxtODBwOGloeXluc2g4bWlkanBvOGZhc3c4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eVy5UemPAA4tC2Fuul/giphy.gif" width="100", margin-top="10"/>
 
 **Sou uma desenvolvedora apaixonada por ux/ui design e qualidade de software! ☆*: .｡. o(≧▽≦)o .｡.:*☆**
 
@@ -18,7 +18,7 @@
 - **Acessibilidade**: Garantindo que todos possam utilizar interfaces de forma eficiente, sem barreiras.
 
 <div style="text-align:center;">
-  <img src="https://media.giphy.com/media/Bng6O8FwfWbEHIdGsE/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/Bng6O8FwfWbEHIdGsE/giphy.gif" width="300"/>
 </div>
 
 ---
